@@ -409,9 +409,6 @@ img {
     position: relative;
     overflow: hidden;
 }
-/* .sliding::before {
-    content: "";
-} */
 .sliding-box {
     position: absolute;
     width: 370px;
@@ -631,7 +628,4 @@ img {
     background: transparent;
     padding: 0;
     cursor: pointer;
-}
-.modal-close-icon {
-    
 }
