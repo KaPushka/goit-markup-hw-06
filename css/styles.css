@@ -598,7 +598,7 @@ img {
     width: 100vw;
     height: 100vh;
     background: rgba(0, 0, 0, 0.2);
-    transition: opacity 250ms linear, visibility 250ms linear;
+    transition: opacity 250ms var(--timing-function), visibility 250ms var(--timing-function);
 }
 .backdrop.is-hidden {
     opacity: 0;
