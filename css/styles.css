@@ -207,10 +207,10 @@ img {
 .contact-list-number:hover .contact-icon-number {
     fill: #2196F3;
 }
-/* .contact-icon:hover, 
+.contact-icon:hover, 
 .contact-icon:focus {
-    color: #2196F3;
-} */
+    
+}
 
 .contact-icon-mail {
     width: 20px;
