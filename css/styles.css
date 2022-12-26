@@ -823,11 +823,11 @@ img {
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.15));
     border-radius: 4px;
     background-color: transparent;
-    transition: border-color 250ms var(--timing-function), outline 250ms var(--timing-function), color 250ms var(--timing-function);
+    color: var(--white-color);
+    transition: border-color 250ms var(--timing-function), outline 250ms var(--timing-function);
 }
 .sub-input:focus {
     outline: none;
-    color: var(--white-color);
     border-color: var(--button-bg-color);
 }
 .sub-input::placeholder {
