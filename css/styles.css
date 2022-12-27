@@ -652,9 +652,6 @@ img {
     fill: var(--hover-focus-btn-bg-color);
     border-color: var(--hover-focus-btn-bg-color);
 }
-.contact-form {
-    margin-bottom: 12px;
-}
 .contact-form-title {
     margin-bottom: 12px;
     font-weight: 700;
